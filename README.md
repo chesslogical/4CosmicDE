@@ -1,7 +1,7 @@
 # CosmicDE
 Apps i made for Cosmic DE !! I will have a lot more apps here in time !! 
 
-
+WOW! Cosmic DE is so easy to make your own gui apps with using rust. That is an amazing game changer. 
 
 # Why COSMIC + Rust Makes App Development So Simple
 
