@@ -1,0 +1,10 @@
+[package]
+name = "sha512_gui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iced = "0.12"
+sha2 = "0.10"
+sha3 = "0.10"
+blake3 = "1"
