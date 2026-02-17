@@ -109,4 +109,4 @@ And that is a massive advantage.
 
 ---
 
-If you’d like, I can also make a slightly more opinionated version, or a shorter “manifesto-style” version.
+
