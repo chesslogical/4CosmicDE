@@ -119,15 +119,7 @@ All dependencies are managed via Cargo.
 
 ## License
 
-MIT (or your chosen license)
+MIT 
 
 ---
-
-If you’d like, I can also:
-
-* Make it more “GitHub polished” with badges
-* Add screenshots section formatting
-* Add a COSMIC-specific section
-* Or make it shorter and minimalist
-
-Just tell me the vibe you want 🙂
+🙂
