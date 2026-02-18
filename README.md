@@ -1,5 +1,5 @@
 # CosmicDE
-Apps i made for Cosmic DE !! I will have a lot more apps here in time !! 
+Apps i made for Cosmic DE !! I will have a lot more apps here in time. In windows, c# and dot net and visual c and stuff are all a big mess in comparison to pop os with cosmic . Rust has cosmic crates already, so one can make apps for cosmic with just rust !! It fits right in, no dot net or c# stuff. Quite amazing, and yet another profound example of how cool rust is. 
 
 WOW! Cosmic DE is so easy to make your own gui apps with using rust. That is an amazing game changer. 
 
